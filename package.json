@@ -1,5 +1,6 @@
 {
   "name": "travis-ci-cd-example",
+  "homepage": "https://heldersrvio.github.io/travis-ci-cd-example",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
