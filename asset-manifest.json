@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.a617e044.chunk.css",
-    "main.js": "/static/js/main.e7905b2f.chunk.js",
-    "main.js.map": "/static/js/main.e7905b2f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d56a32c7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d56a32c7.js.map",
-    "static/js/2.5fc86b96.chunk.js": "/static/js/2.5fc86b96.chunk.js",
-    "static/js/2.5fc86b96.chunk.js.map": "/static/js/2.5fc86b96.chunk.js.map",
-    "static/js/3.621e2dd1.chunk.js": "/static/js/3.621e2dd1.chunk.js",
-    "static/js/3.621e2dd1.chunk.js.map": "/static/js/3.621e2dd1.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.5fc86b96.chunk.js.LICENSE.txt": "/static/js/2.5fc86b96.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/travis-ci-cd-example/static/css/main.a617e044.chunk.css",
+    "main.js": "/travis-ci-cd-example/static/js/main.e7905b2f.chunk.js",
+    "main.js.map": "/travis-ci-cd-example/static/js/main.e7905b2f.chunk.js.map",
+    "runtime-main.js": "/travis-ci-cd-example/static/js/runtime-main.91501db5.js",
+    "runtime-main.js.map": "/travis-ci-cd-example/static/js/runtime-main.91501db5.js.map",
+    "static/js/2.5fc86b96.chunk.js": "/travis-ci-cd-example/static/js/2.5fc86b96.chunk.js",
+    "static/js/2.5fc86b96.chunk.js.map": "/travis-ci-cd-example/static/js/2.5fc86b96.chunk.js.map",
+    "static/js/3.621e2dd1.chunk.js": "/travis-ci-cd-example/static/js/3.621e2dd1.chunk.js",
+    "static/js/3.621e2dd1.chunk.js.map": "/travis-ci-cd-example/static/js/3.621e2dd1.chunk.js.map",
+    "index.html": "/travis-ci-cd-example/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/travis-ci-cd-example/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.5fc86b96.chunk.js.LICENSE.txt": "/travis-ci-cd-example/static/js/2.5fc86b96.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/travis-ci-cd-example/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d56a32c7.js",
+    "static/js/runtime-main.91501db5.js",
     "static/js/2.5fc86b96.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.e7905b2f.chunk.js"
