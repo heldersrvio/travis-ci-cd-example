@@ -7,7 +7,7 @@ cache:
 
 branches:
   only:
-    - master
+    - main
 script:
   - npm test
   - npm run build
@@ -19,4 +19,4 @@ deploy:
   local_dir: build
   keep-history: true
   on:
-    branch: master
+    branch: main
